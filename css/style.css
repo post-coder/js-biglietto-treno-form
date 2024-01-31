@@ -1,0 +1,15 @@
+#price {
+    display: block;
+
+    font-size: 2em;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+#error {
+    padding: 12px;
+    margin-bottom: 24px;
+
+    color: red;
+}
